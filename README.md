@@ -1,10 +1,11 @@
-<img src = "Telecomm.jpg">
-#Predicting Customer Churn
+![Telecomm](https://user-images.githubusercontent.com/74683276/131919153-eba81bbe-e37a-44c5-965d-628ddb1336a4.jpg)
 
-##Overview
+# Predicting Customer Churn
+
+## Overview
 This data uses a variety of variables to predict customers that may not renew SyriaTel's services. 
 
 ## Data
-<a href = "https://www.kaggle.com/becksddf/churn-in-telecoms-dataset" Kaggle Data Set </a>
+https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
 
